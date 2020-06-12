@@ -7,6 +7,7 @@ using System.Linq;
 
 namespace SamplePrism.ViewModels
 {
+    //
     public class SampleCalculatorViewModel : ViewModelBase
     {
         public SampleCalculatorViewModel(INavigationService navigationServices):base(navigationServices)
